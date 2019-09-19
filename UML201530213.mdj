@@ -3953,19 +3953,6 @@
 					"name": "Marine",
 					"ownedElements": [
 						{
-							"_type": "UMLGeneralization",
-							"_id": "AAAAAAFtR/+N78/iNnc=",
-							"_parent": {
-								"$ref": "AAAAAAFtR/2vtM8/Buc="
-							},
-							"source": {
-								"$ref": "AAAAAAFtR/2vtM8/Buc="
-							},
-							"target": {
-								"$ref": "AAAAAAFtR/+Nic+50uM="
-							}
-						},
-						{
 							"_type": "UMLAssociation",
 							"_id": "AAAAAAFtR/+v7dA08Vk=",
 							"_parent": {
@@ -4030,22 +4017,6 @@
 							"name": "UnderAttack"
 						}
 					]
-				},
-				{
-					"_type": "UMLClass",
-					"_id": "AAAAAAFtR/9nLs+Pzkw=",
-					"_parent": {
-						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
-					},
-					"name": "Class2"
-				},
-				{
-					"_type": "UMLClass",
-					"_id": "AAAAAAFtR/+Nic+50uM=",
-					"_parent": {
-						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
-					},
-					"name": "Class3"
 				},
 				{
 					"_type": "UMLClass",
